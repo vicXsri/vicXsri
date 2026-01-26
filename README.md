@@ -1,16 +1,19 @@
-## Hi there 👋
 
-<!--
-**vicXsri/vicXsri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi 👋, I'm Srivisweswara Mohan Santhi
 
-Here are some ideas to get you started:
+Embedded Systems & EV Engineer | STM32 | CAN Bus | PCB Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 I work at the intersection of **embedded firmware, EV systems, and hardware design**, with hands-on experience in:
+- STM32 bare-metal programming
+- CAN 2.0B communication (BMS, MCU, display, data loggers)
+- PCB design (Altium) and system integration
+- EV instrumentation, battery systems, and control logic
+
+🚗 Currently working on:
+- EV instrument clusters and CAN data loggers  
+- Embedded R&D for electric vehicles  
+- Advanced embedded systems during my MSc at the University of Leeds
+
+📫 Reach me at:  
+**Email:** vichu26092003@gmail.com  
+**LinkedIn:** https://www.linkedin.com/in/srivisweswara-m-s-2a2461233
