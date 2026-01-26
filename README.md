@@ -21,4 +21,6 @@ Embedded Systems & EV Engineer | STM32 | CAN Bus | PCB Design
 
 ### Languages & Tools
 
-![My Skills](https://skillicons.dev/icons?i=c,cpp,python,linux,arduino,git,github,react,html,css,matlab)
+![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java,arduino,git,github,react,html,css,matlab)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
