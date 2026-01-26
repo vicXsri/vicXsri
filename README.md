@@ -12,7 +12,7 @@ Embedded Systems & EV Engineer | STM32 | CAN Bus | PCB Design
 🚗 Currently working on:
 - EV instrument clusters and CAN data loggers  
 - Embedded R&D for electric vehicles  
-- Advanced embedded systems during my MSc at the University of Leeds
+- Embedded systems MSc at the University of Leeds
 
 📫 Reach me at:  
 **Email:** vichu26092003@gmail.com  
