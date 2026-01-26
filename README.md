@@ -17,3 +17,8 @@ Embedded Systems & EV Engineer | STM32 | CAN Bus | PCB Design
 📫 Reach me at:  
 **Email:** vichu26092003@gmail.com  
 **LinkedIn:** https://www.linkedin.com/in/srivisweswara-m-s-2a2461233
+
+
+### Languages & Tools
+
+![My Skills](https://skillicons.dev/icons?i=c,cpp,python,linux,arduino,git,github,react,html,css,matlab)
