@@ -1,5 +1,5 @@
 
-## Hi 👋, I'm Srivisweswara Mohan Santhi
+## Hi, I'm Srivisweswara Mohan Santhi
 
 Embedded Systems & EV Engineer | STM32 | CAN Bus | PCB Design
 
